@@ -12,7 +12,7 @@
   <a href="https://discordapp.com/users/981506848643481610" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=afriawanmaulana@gmail.com" target="_blank">
+  <a href=#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
