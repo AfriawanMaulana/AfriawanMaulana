@@ -1,7 +1,7 @@
 
 ###
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=CA44F7&width=435&lines=Welcome+To+My+GitHub!;My+name+is+Afriawan+Maulana;I'm+a+junior+web+developer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=CA44F7&width=435&lines=Welcome+To+My+GitHub!;My+name+is+Afriawan+Maulana;I'm+a+junior+web+developer+" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
