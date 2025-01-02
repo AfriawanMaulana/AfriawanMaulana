@@ -1,7 +1,8 @@
-<h2 align="center">𝙃𝙞 👋! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝘼𝙛𝙧𝙞𝙖𝙬𝙖𝙣 𝙈𝙖𝙪𝙡𝙖𝙣𝙖</h2>
 
 ###
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=CA44F7&width=435&lines=Welcome+To+My+GitHub!;My+name+is+Afriawan+Maulana;I'm+a+junior+web+developer+" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <a href="https://www.instagram.com/afriawanmaulana" target="_blank">
